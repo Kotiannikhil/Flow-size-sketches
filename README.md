@@ -1,4 +1,4 @@
-#Flow-size sketches
+Flow-size sketches
 
 For a description on the project, kindly refer to project3.pdf
 
